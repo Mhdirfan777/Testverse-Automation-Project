@@ -21,25 +21,25 @@ public class Testversetest {
         testversactions.dashboard();
         testversactions.module();
         testversactions.Bugtracker();
-//        testversactions.Manualtesting();
-//        testversactions.AutomationHub();
-//        testversactions.DeveloperHub();
-//        testversactions.Community();
-//        testversactions.Chat();
-//        testversactions.NotesLeaderboard();
-//        testversactions.Users();
-//        testversactions.Attendance();
-//        testversactions.Createnewtester();
-//        testversactions.testeraccept();
-//        testversactions.Tester();
-//        testversactions.adminsentmessage();
-//        testversactions.testercheckmessage();
-//        testversactions.testercheckall();
-//        testversactions.createnewdeveloper();
-//        testversactions.developeraccept();
-//        testversactions.developer();
-//        testversactions.developersendmessage();
-//        testversactions.marcosendmessage();
+        testversactions.Manualtesting();
+       testversactions.AutomationHub();
+       testversactions.DeveloperHub();
+       testversactions.Community();
+       testversactions.Chat();
+       testversactions.NotesLeaderboard();
+       testversactions.Users();
+       testversactions.Attendance();
+       testversactions.Createnewtester();
+       testversactions.testeraccept();
+       testversactions.Tester();
+       testversactions.adminsentmessage();
+       testversactions.testercheckmessage();
+       testversactions.testercheckall();
+       testversactions.createnewdeveloper();
+       testversactions.developeraccept();
+       testversactions.developer();
+       testversactions.developersendmessage();
+       testversactions.marcosendmessage();
 
 
     }
